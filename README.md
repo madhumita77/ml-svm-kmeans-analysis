@@ -75,7 +75,7 @@ python src/partB_KMeans.py --data data/Frogs_MFCCs.csv --random_state 42 --pca_c
 └── src/ # Source code
 ├── partA_higgs_svm.py # SVM implementation script
 └── partB_KMeans.py # K-Means implementation script
-
+```
 
 ## 🔬 Technical Implementation
 
