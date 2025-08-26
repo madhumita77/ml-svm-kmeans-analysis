@@ -45,6 +45,7 @@ python src/partB_KMeans.py --data data/Frogs_MFCCs.csv --random_state 42 --pca_c
 
 ## 📁 Project Structure
 
+```bash
 ├── data/ # Dataset files
 │ ├── HIGGS.csv # HIGGS dataset for SVM
 │ └── Frogs_MFCCs.csv # Anuran calls dataset for clustering
