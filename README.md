@@ -186,9 +186,5 @@ Madhumita Gayen - madhumitagayen07@gmail.com
 
 Project Link: [https://github.com/madhumita77/ml-svm-kmeans-analysis](https://github.com/madhumita77/ml-svm-kmeans-analysis)
 
-## 📄 License
-
-This project is part of academic coursework for CS60050 Machine Learning.
-
 ---
 ⭐ **If you found this project helpful, please consider giving it a star!**
