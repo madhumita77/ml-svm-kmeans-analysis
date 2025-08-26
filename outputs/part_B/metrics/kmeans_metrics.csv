@@ -1,0 +1,2 @@
+method,k,silhouette,davies_bouldin,calinski_harabasz
+KMeans,4,0.4012770959495226,1.2838774119574348,2436.410718815421

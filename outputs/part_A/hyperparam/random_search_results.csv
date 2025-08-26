@@ -1,0 +1,2 @@
+best_params,best_cv_score
+"{'svm__learning_rate': 'optimal', 'svm__eta0': 0.1, 'svm__alpha': 0.001}",0.6275992100499468

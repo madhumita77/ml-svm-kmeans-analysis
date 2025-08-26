@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-08-17 14:23:55",
+  "platform": "Windows-11-10.0.26100-SP0",
+  "python": "3.12.7",
+  "numpy": "1.26.4",
+  "pandas": "2.2.2",
+  "seaborn": "0.13.2",
+  "matplotlib": "3.9.2",
+  "sklearn": "1.5.1",
+  "args": {
+    "data": "data/Frogs_MFCCs.csv",
+    "random_state": 42,
+    "pca_components": 10,
+    "k": 4,
+    "dbscan_eps": 0.5,
+    "dbscan_min_samples": 5
+  },
+  "data_path": "data/Frogs_MFCCs.csv",
+  "out_dir": "outputs/part_B"
+}

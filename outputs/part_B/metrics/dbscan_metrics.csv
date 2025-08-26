@@ -1,0 +1,2 @@
+method,clusters,silhouette,davies_bouldin,calinski_harabasz
+DBSCAN,44,-0.43427155326959244,1.488036316594695,23.27241259669343
